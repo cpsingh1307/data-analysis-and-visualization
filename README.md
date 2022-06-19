@@ -6,3 +6,6 @@ Data links for Lego data:
 
 Data for film-budget-&-revenue-analysis:
 * cost_revenue_dirty.csv
+
+Data for Nobel_Prize_Analysis:
+* nobel_prize_data.csv
